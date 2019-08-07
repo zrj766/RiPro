@@ -15,7 +15,7 @@ wordpress  theme RiPro V3.0
 ## 第二步
 
 > 下载自签SSL证书  
-  下载地址：http://vip.ylit.cc/vip.ylit.cc.crt
+  下载地址：https://github.com/AdFate/RiPro/releases/download/3.0/vip.ylit.cc.zip
 ## 第三步
 
 让系统信任 自签的SSL证书
